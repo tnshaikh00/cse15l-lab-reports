@@ -1,6 +1,6 @@
 # *Hello CSE15L*, welcome to **Taimur's Github**.
 ## this is a test repo
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ftrippy&psig=AOvVaw0Y5E52yU_QACk1Z_4LbpX2&ust=1649554523865000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJiKkNXrhfcCFQAAAAAdAAAAABAV)
+![Image](https://png.pngtree.com/png-clipart/20211024/original/pngtree-trippy-girl-lips-psychedelic-vector-illustrations-png-image_6868817.png)
 > blockquote example
 *this 
 *is 
