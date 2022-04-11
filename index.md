@@ -3,7 +3,7 @@
 ![Image](https://png.pngtree.com/png-clipart/20211024/original/pngtree-trippy-girl-lips-psychedelic-vector-illustrations-png-image_6868817.png)
 > blockquote example
 
-## link to week 2 lab 1 report:[Report]cse15l-lab-reports/lab-report-1-week-2.md
+## link to week 2 lab 1 report:[Report]lab-report-1-week-2.md
 
 ***testing horizontal rule
 
