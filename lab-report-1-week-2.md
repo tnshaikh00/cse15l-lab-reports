@@ -10,8 +10,8 @@ Even if you don't end up using it much, it's still a good code editor.
 <img width="1413" alt="Screen Shot 2022-04-10 at 7 58 55 PM" src="https://user-images.githubusercontent.com/103294764/162661803-aca6060e-8996-4ed5-98eb-3adaee87f67b.png">
 
 ## 2. Account and SSH Setup
-I also typically don't like to use the terminal within VSCode but I set it up to be used properly. Next we moved on and Connected to the Remote Server. 
-For the first step, open a terminal. Your command will look like this, but with the zz replaced by the letters in your course-specific account.
+I also typically don't like to use the terminal within VSCode but I set it up to be used properly. Now I can use both my built in terminal and VSCode interchangeably. Next we moved on and Connected to the Remote Server. 
+For the first step, I open a terminal. Your command will look like this, but with the zz replaced by the letters in your course-specific account.
 
 type `ssh [username]@ieng6.ucsd.edu` ex. `ssh cs15lwi22zz@ieng6lucsd.edu`.
 ![test](https://user-images.githubusercontent.com/103294764/162662291-d103a49d-8f44-4b94-a9c0-601ebe0e2396.png)
@@ -37,4 +37,6 @@ To speed up the process of SSH'ing and using scp without typing in a password ev
 you can look above to compare and see the side by side on how fast it is to transfer and scp after SSH keys
 
 
-## 6. Optimizing Remote Running
+## 6. Optimizing Remote Running and having fun!!
+Here is an example of me making common mistakes but showing how quickly we can do things using nothing but just the terminal.
+![AHAHAH](https://user-images.githubusercontent.com/103294764/162664313-8d4312f0-b285-48d4-8531-77da26404b2a.png)
