@@ -6,6 +6,8 @@
 
 [Lab Report 2](https://github.com/tnshaikh00/cse15l-lab-reports/blob/c9fcedb45de51d18ca17bf416b78cd9d3647137c/Lab%20Report%202:%20Week%204.md)
 
+[Lab Report 3](https://github.com/tnshaikh00/cse15l-lab-reports/blob/5ceedfbd9f71477e66d487e6ff574d1890e75248/lab-report-3-week-6.md)
+
 
 0***testing horizontal rule
 
