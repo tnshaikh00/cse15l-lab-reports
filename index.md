@@ -8,6 +8,8 @@
 
 [Lab Report 3](https://github.com/tnshaikh00/cse15l-lab-reports/blob/5ceedfbd9f71477e66d487e6ff574d1890e75248/lab-report-3-week-6.md)
 
+[Lab Report 4](https://github.com/tnshaikh00/cse15l-lab-reports/blob/1687d01a11045f4a2a833432d0f1350b528a3aa7/lab-report-4-week-8.md)
+
 
 0***testing horizontal rule
 
