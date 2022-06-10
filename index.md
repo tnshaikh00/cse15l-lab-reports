@@ -10,6 +10,5 @@
 
 [Lab Report 4](https://github.com/tnshaikh00/cse15l-lab-reports/blob/1687d01a11045f4a2a833432d0f1350b528a3aa7/lab-report-4-week-8.md)
 
-
-0***testing horizontal rule
+[Lab Report 5](https://github.com/tnshaikh00/cse15l-lab-reports/blob/d716cbaa01cb8b6bc547945f2a9436427f56b38f/lab-report-5-week-10.md)
 
